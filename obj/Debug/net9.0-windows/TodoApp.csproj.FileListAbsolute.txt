@@ -1,0 +1,14 @@
+A:\OneDrive\Desktop\TodoApp\bin\Debug\net9.0-windows\TodoApp.exe
+A:\OneDrive\Desktop\TodoApp\bin\Debug\net9.0-windows\TodoApp.deps.json
+A:\OneDrive\Desktop\TodoApp\bin\Debug\net9.0-windows\TodoApp.runtimeconfig.json
+A:\OneDrive\Desktop\TodoApp\bin\Debug\net9.0-windows\TodoApp.dll
+A:\OneDrive\Desktop\TodoApp\bin\Debug\net9.0-windows\TodoApp.pdb
+A:\OneDrive\Desktop\TodoApp\obj\Debug\net9.0-windows\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+A:\OneDrive\Desktop\TodoApp\obj\Debug\net9.0-windows\TodoApp.AssemblyInfoInputs.cache
+A:\OneDrive\Desktop\TodoApp\obj\Debug\net9.0-windows\TodoApp.AssemblyInfo.cs
+A:\OneDrive\Desktop\TodoApp\obj\Debug\net9.0-windows\TodoApp.csproj.CoreCompileInputs.cache
+A:\OneDrive\Desktop\TodoApp\obj\Debug\net9.0-windows\TodoApp.dll
+A:\OneDrive\Desktop\TodoApp\obj\Debug\net9.0-windows\refint\TodoApp.dll
+A:\OneDrive\Desktop\TodoApp\obj\Debug\net9.0-windows\TodoApp.pdb
+A:\OneDrive\Desktop\TodoApp\obj\Debug\net9.0-windows\TodoApp.genruntimeconfig.cache
+A:\OneDrive\Desktop\TodoApp\obj\Debug\net9.0-windows\ref\TodoApp.dll
